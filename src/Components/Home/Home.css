@@ -458,7 +458,7 @@ margin-bottom: 50px;
     border-radius: 5px;
 }
 
-@media only screen and (max-width:300px){
+@media only screen and (max-width:500px){
     .form{
         height: 100px;
         width: 100%;
