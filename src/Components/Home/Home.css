@@ -457,15 +457,7 @@ margin-bottom: 50px;
     border: 1px solid #dcca87;
     border-radius: 5px;
 }
-@media only screen and (max-width:400px){
-    .form{
-        height: 100px;
-        width: 100%;
-    }
-    .form input{
-        margin-bottom: 10px;
-    }
-}
+
 @media only screen and (max-width:300px){
     .form{
         height: 100px;
