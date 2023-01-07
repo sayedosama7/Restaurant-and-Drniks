@@ -47,12 +47,8 @@
         margin-top: 100px;
         width: 450px;    }
 }
-@media only screen and (max-width:400px){
 
-    .welcome_img img{
-        width: 280px;    }
-}
-@media only screen and (max-width:300px){
+@media only screen and (max-width:400px){
 
     .welcome_img img{
         width: 280px;    }
@@ -224,12 +220,7 @@ margin-left: 25px;
         width:270px;
         }
 }
-@media only screen and (max-width:300px){
 
-    .menu{
-        width:280px;
-        }
-}
                 /*end of menu*/
 
                 /*start of chefs*/
@@ -274,14 +265,10 @@ margin-bottom: 100px;
 }
 @media only screen and (max-width:400px){
     .awards_img{
-        width: 250px;
-    }
-}
-@media only screen and (max-width:300px){
-    .awards_img{
         width: 280px;
     }
 }
+
                 /*end of awards*/
 
                 /*start of insta*/
@@ -366,16 +353,11 @@ body {
     }
 @media only screen and (max-width:400px){
         .swiper {
-            width: 270px;
-
-            }
-    }
-    @media only screen and (max-width:300px){
-        .swiper {
             width: 290px;
 
             }
     }
+
 
                 /*end of insta*/
 
@@ -401,16 +383,11 @@ padding-bottom: 100px;
 }
 @media only screen and (max-width:400px){
     .insta_img img{
-        width: 270px;
-
-    }
-}
-@media only screen and (max-width:300px){
-    .insta_img img{
         width: 290px;
 
     }
 }
+
                 /*end of contact*/
 
                         /*start of form */
@@ -460,7 +437,7 @@ margin-bottom: 50px;
 
 @media only screen and (max-width:400px){
     .form{
-        height: 100px;
+        height: 620px;
         width: 100%;
     }
     .form input{
