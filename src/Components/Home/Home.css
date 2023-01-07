@@ -50,7 +50,7 @@
 @media only screen and (max-width:400px){
 
     .welcome_img img{
-        width: 270px;    }
+        width: 300px;    }
 }
 @media only screen and (max-width:500px){
 
@@ -221,7 +221,7 @@ margin-left: 25px;
 @media only screen and (max-width:400px){
 
     .menu{
-        width:250px;
+        width:280px;
         }
 }
 @media only screen and (max-width:500px){
@@ -274,7 +274,7 @@ margin-bottom: 100px;
 }
 @media only screen and (max-width:400px){
     .awards_img{
-        width: 270px;
+        width: 290px;
     }
 }
 @media only screen and (max-width:500px){
@@ -366,7 +366,7 @@ body {
     }
 @media only screen and (max-width:400px){
         .swiper {
-            width: 270px;
+            width: 290px;
 
             }
     }
@@ -401,7 +401,7 @@ padding-bottom: 100px;
 }
 @media only screen and (max-width:400px){
     .insta_img img{
-        width: 270px;
+        width: 290px;
 
     }
 }
@@ -459,7 +459,7 @@ margin-bottom: 50px;
 }
 @media only screen and (max-width:400px){
     .form{
-        height: 640px;
+        height: 620px;
         width: 100%;
     }
     .form input{
