@@ -466,7 +466,7 @@ margin-bottom: 50px;
         margin-bottom: 10px;
     }
 }
-@media only screen and (max-width:500px){
+@media only screen and (max-width:300px){
     .form{
         height: 100px;
         width: 100%;
