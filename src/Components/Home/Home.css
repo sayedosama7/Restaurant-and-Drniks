@@ -1,0 +1,476 @@
+                /*start of header */
+.header{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    background-color: #0c0c0c;
+}
+.sec1 p{
+    color: #fff;
+    font-size: 20px;
+    font-family:"Cormorant Upright",serif;
+    letter-spacing: .04em;
+    font-weight: 700;
+}
+.sec1 h1{
+    padding-top: 50px;
+    color: #dcca87;
+    font-size: 60px;
+    font-family:"Cormorant Upright",serif;
+    letter-spacing: .2em;
+    font-weight: 900;
+    line-height: 70px
+}
+.sec1  h5{
+    padding-top: 50px;
+    color: #fff;
+    font-size: 20px;
+    font-family:"Cormorant Upright",serif;
+    letter-spacing: .04em;
+}
+.sec1 button{
+    margin-top: 30px;
+    width: 130px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: "Cormorant Upright",serif;
+    border: none;
+}
+.welcome_img img{
+    width: 450px;
+}
+@media only screen and (max-width:600px){
+    .sec1{
+        margin-left: 30px;
+    }
+    .welcome_img img{
+        margin-top: 100px;
+        width: 450px;    }
+}
+@media only screen and (max-width:400px){
+
+    .welcome_img img{
+        width: 300px;    }
+}
+                /*end of header */
+
+                /*start of about */
+.about{
+    padding-top: 300px;
+}
+.images .knife{
+    width: 100px;
+    position: relative;
+    bottom: 200px;
+    left: 150px;
+}
+.images{
+    margin-left: 50px;
+}
+.images .g{
+    position: absolute;
+    width: 400px;
+}
+.about .sec2_h1{
+    color: #dcca87;
+    font-size: 50px;
+    font-family:"Cormorant Upright",serif;
+}
+.about p{
+    padding-top: 50px;
+    color: rgba(255, 255, 255, 0.575);
+    font-size: 16px;
+    font-family:"Cormorant Upright",serif;
+}
+.sec2_left h1{
+    color: #dcca87;
+    font-size: 50px;
+    font-family:"Cormorant Upright",serif;
+}
+.about .sec2_button{
+    margin-top: 30px;
+    width: 120px;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    border: none;
+    font-family: "Cormorant Upright",serif;
+}
+.about button{
+    margin-top: 30px;
+    width: 120px;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    border: none;
+    font-family: "Cormorant Upright",serif;
+}
+@media only screen and (max-width:768px){
+    .images .knife{
+        width: 80px;
+        position: relative;
+        bottom: 130px;
+        left: 105px;
+    }
+    .images .g{
+        position: absolute;
+        width: 300px;
+    }
+    .images{
+        margin-left: -50px;
+        padding-top: 150px;
+    }
+}
+@media only screen and (max-width:600px){
+    .images{
+        margin-left: 40px;
+    }
+.sec2_div{
+    margin-left: 30px;
+}
+.sec2_left{
+    margin-left: 30px;
+}
+.about button{
+    margin-bottom: 50px;
+}
+}
+                /*end of about*/
+
+                /*start of menu*/
+
+.menus{
+    background-color: #0c0c0c;
+    padding-left: 70px;
+}
+
+.menu{
+width:420px;
+height:700px;
+margin-left: 25px;
+}
+.the_menu h3{
+    text-align: center;
+    font-family: "Cormorant Upright",serif;
+    color :white;
+    margin-top: 70px;
+}
+
+.the_menu h1{
+    text-align: center;
+    margin-bottom :100px;
+    margin-top : 30px;
+    color: #dcca87;
+    font-family: "Cormorant Upright",serif;
+    font-size : 80px;
+}
+.menu_left{
+    padding-top: 150px;
+    color: #fff;
+}
+.menu_left h5{
+    color: #dcca87;
+    font-size: 20px;
+    font-family: "Cormorant Upright",serif;
+}
+.menu_left p{
+    font-size: 17px;
+    margin-bottom : 30px;
+    font-family: "Cormorant Upright",serif;
+}
+.menu_right{
+    padding-top: 150px;
+    color: #fff;
+    margin-left: -80px;
+}
+.menu_right h5{
+    color: #dcca87;
+    font-size: 20px;
+    font-family: "Cormorant Upright",serif;
+}
+.menu_right p{
+    font-size: 17px;
+    margin-bottom : 30px;
+    font-family: "Cormorant Upright",serif;
+}
+.menu_button button{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 150px;
+    height: 55px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: "Cormorant Upright",serif;
+    border: none;
+}
+@media only screen and (max-width:600px){
+    .menu{
+        margin-left: -50px;
+    }
+    .menu_right{
+        margin-left: 0px;
+    }
+}
+@media only screen and (max-width:400px){
+
+    .menu{
+        width:280px;
+        }
+}
+                /*end of menu*/
+
+                /*start of chefs*/
+.chefs{
+margin-top: 100px;
+margin-bottom: 100px;
+}
+.chef{
+    margin-top: 50px;
+}
+.chef h4{
+    color: #dcca87;
+    font-size: 40px;
+    font-family: "Cormorant Upright",serif;
+}
+.chef p{
+    color: #fff;
+}
+                /*end of chefs*/
+                /*start of awards*/
+
+.awards{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.awards_img{
+    margin-top: 140px;
+    width: 450px;
+}
+.awards_num img{
+    width : 50px;
+    margin-top: 20px;
+}
+.awards_num h6{
+    color: #dcca87;
+    font-family: "Cormorant Upright",serif;
+    margin-top: 15px;
+}
+.awards_num p{
+    color: #fff;
+
+}
+@media only screen and (max-width:400px){
+    .awards_img{
+        width: 300px;
+    }
+}
+                /*end of awards*/
+
+                /*start of insta*/
+
+.insta{
+margin-top: 100px;
+margin-bottom: 100px;
+background-color: #0c0c0c;
+padding-bottom: 100px;
+}
+.insta_left p{
+    color: white;
+    font-size: 20px;
+    font-family:"Cormorant Upright",serif;
+    letter-spacing: .04em;
+    font-weight: 700;
+}
+
+.insta_left h1{
+    padding-top: 50px;
+    color: #dcca87;
+    font-size: 50px;
+    font-family:"Cormorant Upright",serif;
+    font-weight: 900;
+    line-height: 70px
+}
+.insta_left  h5{
+    padding-top: 50px;
+    color: rgba(255, 255, 255, 0.61);
+    font-size: 20px;
+    font-family:"Cormorant Upright",serif;
+    letter-spacing: .04em;
+}
+.insta_left button{
+    margin-top: 30px;
+    width: 130px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: "Cormorant Upright",serif;
+    border: none;
+    margin-bottom: 30px;
+}
+.insta_left{
+    margin-top: 70px;;
+}
+
+/* swiper */
+#app { height: 100% }
+html,
+body {
+    position: relative;
+    height: 100%;
+    }
+    .swiper {
+    width: 400px;
+    height: 550px;
+    margin-top: 60px;
+    }
+    .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    }
+    .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    }
+@media only screen and (max-width:400px){
+        .swiper {
+            width: 300px;
+
+            }
+    }
+
+                /*end of insta*/
+
+                /*start of contact*/
+
+.contact{
+padding-bottom: 100px;
+}
+.sec1 h3{
+    color: #dcca87;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: "Cormorant Upright",serif;
+    font-size: 50px;
+}
+.sec1 h6{
+    color: #fff;
+}
+.insta_img img{
+    width: 450px;
+    margin-top: 40px;
+
+}
+@media only screen and (max-width:400px){
+    .insta_img img{
+        width: 300px;
+
+    }
+}
+                /*end of contact*/
+
+                        /*start of form */
+.form{
+    border: 1px solid white;
+    height: 450px;
+    width: 100%;
+    padding-top: 50px;
+    background-color: #0c0c0c;
+    margin-bottom: 100px;
+}
+.form h3{
+    color: #fff;
+    font-family: "Cormorant Upright",serif;
+}
+.form h1{
+    color: #dcca87;
+    font-size: 70px;
+    text-align: center;
+    font-family: "Cormorant Upright",serif;
+}
+.form p{
+    color: #fff;
+text-align: center;
+margin-bottom: 50px;
+}
+.foem .email input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form input{
+    width: 60%;
+    height: 50px;
+    margin-right: 20px;
+    background-color: #0c0c0c;
+    border: 1px solid #dcca87;
+    border-radius: 5px;
+}
+.form button{
+    width:130px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid #dcca87;
+    border-radius: 5px;
+}
+@media only screen and (max-width:400px){
+    .form{
+        height: 600px;
+        width: 100%;
+    }
+    .form input{
+        margin-bottom: 10px;
+    }
+}
+                        /*end of form */
+
+                /*start of footer */
+.footer{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.footer h2{
+    color: #dcca87;
+    font-family: "Cormorant Upright",serif;
+}
+.footer h1{
+    color: #dcca87;
+    font-family: "Cormorant Upright",serif;
+
+}
+.footer h5{
+    color: rgba(255, 255, 255, 0.623);
+    font-family: "Cormorant Upright",serif;
+}
+.footer p{
+    color: rgba(255, 255, 255, 0.589);
+    font-family: "Cormorant Upright",serif;
+}
+.footer h6{
+    color: #dcca87;
+    font-family: "Cormorant Upright",serif;
+}
+.footer i{
+    margin: 5px;
+    color: #dcca87;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+                /*end of footer*/
