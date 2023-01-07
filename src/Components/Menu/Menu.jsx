@@ -37,7 +37,7 @@ const Menu = () => {
                             </div>
                             </Col>
                             <Col className='menuu' lg={6} md={6} sm={12}>
-                            <img className="menu" src="/Images/menu.png" alt="" />
+                            <img className="menu" src="/Images/gallery03.png" alt="" />
                             </Col>
                             <Col className="menu_right" lg={3} md={3} sm={12}>
                             <div>
