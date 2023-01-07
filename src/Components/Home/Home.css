@@ -52,6 +52,11 @@
     .welcome_img img{
         width: 270px;    }
 }
+@media only screen and (max-width:300px){
+
+    .welcome_img img{
+        width: 270px;    }
+}
                 /*end of header */
 
                 /*start of about */
@@ -219,6 +224,12 @@ margin-left: 25px;
         width:250px;
         }
 }
+@media only screen and (max-width:300px){
+
+    .menu{
+        width:250px;
+        }
+}
                 /*end of menu*/
 
                 /*start of chefs*/
@@ -262,6 +273,11 @@ margin-bottom: 100px;
 
 }
 @media only screen and (max-width:400px){
+    .awards_img{
+        width: 270px;
+    }
+}
+@media only screen and (max-width:300px){
     .awards_img{
         width: 270px;
     }
@@ -354,6 +370,12 @@ body {
 
             }
     }
+    @media only screen and (max-width:300px){
+        .swiper {
+            width: 270px;
+
+            }
+    }
 
                 /*end of insta*/
 
@@ -378,6 +400,12 @@ padding-bottom: 100px;
 
 }
 @media only screen and (max-width:400px){
+    .insta_img img{
+        width: 270px;
+
+    }
+}
+@media only screen and (max-width:300px){
     .insta_img img{
         width: 270px;
 
@@ -430,6 +458,15 @@ margin-bottom: 50px;
     border-radius: 5px;
 }
 @media only screen and (max-width:400px){
+    .form{
+        height: 640px;
+        width: 100%;
+    }
+    .form input{
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width:300px){
     .form{
         height: 640px;
         width: 100%;
