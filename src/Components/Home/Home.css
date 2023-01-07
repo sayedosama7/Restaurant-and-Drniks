@@ -45,14 +45,10 @@
     }
     .welcome_img img{
         margin-top: 100px;
-        width: 450px;    }
+        width: 280px;    }
 }
 
-@media only screen and (max-width:400px){
 
-    .welcome_img img{
-        width: 260px;    }
-}
                 /*end of header */
 
                 /*start of about */
@@ -209,17 +205,14 @@ margin-left: 25px;
 @media only screen and (max-width:600px){
     .menu{
         margin-left: -50px;
+        width:270px;
+
     }
     .menu_right{
         margin-left: 0px;
     }
 }
-@media only screen and (max-width:400px){
 
-    .menu{
-        width:250px;
-        }
-}
 
                 /*end of menu*/
 
@@ -263,9 +256,9 @@ margin-bottom: 100px;
     color: #fff;
 
 }
-@media only screen and (max-width:400px){
+@media only screen and (max-width:600px){
     .awards_img{
-        width: 260px;
+        width: 280px;
     }
 }
 
@@ -351,9 +344,9 @@ body {
     height: 100%;
     object-fit: cover;
     }
-@media only screen and (max-width:400px){
+@media only screen and (max-width:600px){
         .swiper {
-            width: 270px;
+            width: 290px;
 
             }
     }
@@ -381,9 +374,9 @@ padding-bottom: 100px;
     margin-top: 40px;
 
 }
-@media only screen and (max-width:400px){
+@media only screen and (max-width:600px){
     .insta_img img{
-        width: 270px;
+        width: 290px;
 
     }
 }
@@ -435,7 +428,7 @@ margin-bottom: 50px;
     border-radius: 5px;
 }
 
-@media only screen and (max-width:400px){
+@media only screen and (max-width:600px){
     .form{
         height: 640px;
         width: 100%;
