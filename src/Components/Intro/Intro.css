@@ -9,7 +9,7 @@ object-fit: cover;
 }
 .app__video-overlay {
 position: absolute;
-top:280px;
+top:230px;
 left: 610px;
 cursor: pointer;
 border: 1px solid #dcca87;
@@ -51,7 +51,7 @@ border-radius: 50%;
 
 @media only screen and (max-width: 400px){
     .app__video-overlay{
-        left:110px;
+        left:100px;
     }
 }
 @media only screen and (max-width: 350px){
