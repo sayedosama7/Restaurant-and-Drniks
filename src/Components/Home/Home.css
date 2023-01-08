@@ -145,7 +145,7 @@
 }
 @media only screen and (max-width:600px){
     .images{
-        margin-left: 20px;
+        margin-left: 40px;
     }
 .sec2_div{
     margin-left: 10px;
@@ -255,7 +255,7 @@ border-radius: 10px;
 }
 @media only screen and (max-width:460px){
     .menu{
-        width:370px;
+        width:380px;
         margin-left: 5px;
     }
 }
