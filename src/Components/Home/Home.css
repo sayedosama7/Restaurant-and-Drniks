@@ -56,10 +56,10 @@
         margin-left: 10px;  
     }
 }
-@media only screen and (max-width:300px){
+@media only screen and (max-width:450px){
     .welcome_img img{
         margin-top: 100px;
-        width: 270px;
+        width: 280px;
         margin-left: 10px;  
     }
 }
@@ -171,7 +171,6 @@ border-radius: 10px;
     color :white;
     margin-top: 70px;
 }
-
 .the_menu h1{
     text-align: center;
     margin-bottom :100px;
@@ -241,6 +240,12 @@ border-radius: 10px;
         margin-left: 5px;
     }
 }
+@media only screen and (max-width:450px){
+    .menu{
+        width:280px;
+        margin-left: 5px;
+    }
+}
 
                 /*end of menu*/
 
@@ -294,7 +299,11 @@ margin-bottom: 100px;
         width:300px;
     }
 }
-
+@media only screen and (max-width:450px){
+    .awards_img{
+        width:280px;
+    }
+}
                 /*end of awards*/
 
                 /*start of insta*/
@@ -312,7 +321,6 @@ padding-bottom: 100px;
     letter-spacing: .04em;
     font-weight: 700;
 }
-
 .insta_left h1{
     padding-top: 50px;
     color: #dcca87;
@@ -341,7 +349,6 @@ padding-bottom: 100px;
 .insta_left{
     margin-top: 70px;;
 }
-
 /* swiper */
 #app { height: 100% }
 html,
@@ -387,7 +394,11 @@ body {
             width: 300px;
             }
     }
-
+    @media only screen and (max-width:450px){
+        .swiper {
+            width: 280px;
+            }
+    }
 
                 /*end of insta*/
 
@@ -421,7 +432,12 @@ padding-bottom: 100px;
     .insta_img img{
         width:300px;
         margin-left: 0px;
-
+    }
+}
+@media only screen and (max-width:450px){
+    .insta_img img{
+        width:280px;
+        margin-left: 0px;
     }
 }
 
