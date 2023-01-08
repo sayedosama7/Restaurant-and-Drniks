@@ -36,7 +36,7 @@
 .navbar-toggler-icon{
 background-color: white;
 }
-@media only screen and (wax-width:600px){
+@media only screen and (max-width:600px){
     .navlinks .a2{
         display: none;
     }
