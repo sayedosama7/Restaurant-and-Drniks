@@ -56,6 +56,13 @@
         margin-left: 10px;  
     }
 }
+@media only screen and (max-width:300px){
+    .welcome_img img{
+        margin-top: 100px;
+        width: 270px;
+        margin-left: 10px;  
+    }
+}
 
 
                 /*end of header */
