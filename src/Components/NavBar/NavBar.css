@@ -17,6 +17,13 @@
     text-decoration: none;
     margin: 10px;
 }
+.navlinks .a2{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    margin: 10px;
+}
 .navlinks .a:hover{
     color: rgba(255, 255, 255, 0.637);
 }
@@ -28,4 +35,9 @@
 }
 .navbar-toggler-icon{
 background-color: white;
+}
+@media only screen and (wax-width:600px){
+    .navlinks .a2{
+        display: none;
+    }
 }
