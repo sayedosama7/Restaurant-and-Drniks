@@ -59,14 +59,14 @@
 @media only screen and (max-width:330px){
     .welcome_img img{
         margin-top: 100px;
-        width: 500px;
+        width: 260px;
         margin-left: 10px;  
     }
 }
 @media only screen and (max-width:460px){
     .welcome_img img{
         margin-top: 100px;
-        width: 280px;
+        width: 580px;
         margin-left: 10px;  
     }
 }
