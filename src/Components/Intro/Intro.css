@@ -51,7 +51,7 @@ border-radius: 50%;
 
 @media only screen and (max-width: 400px){
     .app__video-overlay{
-        left:130px;
+        left:110px;
     }
 }
 @media only screen and (max-width: 350px){
