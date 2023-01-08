@@ -27,6 +27,9 @@
 .navlinks .a:hover{
     color: rgba(255, 255, 255, 0.637);
 }
+.navlinks .a2:hover{
+    color: rgba(255, 255, 255, 0.637);
+}
 .nav_middle{
     margin-left: 250px;
 }
@@ -39,5 +42,11 @@ background-color: white;
 @media only screen and (max-width:600px){
     .nav_left .a2{
         display: none;
+    }
+    .nav_left{
+        display: none;
+    }
+    .nav_middle{
+        margin-left: 0px;
     }
 }

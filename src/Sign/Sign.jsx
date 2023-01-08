@@ -14,7 +14,7 @@ const Sign = () => {
                     <h1>Subscribe To Our Newsletter</h1>
                     <p>And Never Miss Latest Updates!</p>
                     <div className='email'>
-                    <center><input type="email" placeholder='    Enter your email address'/>
+                    <center><input type="email" placeholder='  Enter your email'/>
                     <button>Subscribe</button></center>
                     </div>
                 </form>

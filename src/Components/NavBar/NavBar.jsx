@@ -19,10 +19,8 @@ const NavBar = () => {
             <HashLink className='a' to="/#Awards">Awards</HashLink>
             <HashLink className='a' to="/#Contact">Contact</HashLink>
             <div className='nav_left'>
-        <Nav className="me-auto">
             <HashLink className='a2' to="/#Log">Log In / Registration</HashLink>
             <HashLink className='a2' to="/#Log">Book Table</HashLink>
-          </Nav>
           </div>
           </Nav>
         </Navbar.Collapse></div>

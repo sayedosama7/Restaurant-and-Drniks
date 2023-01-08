@@ -41,11 +41,20 @@
 }
 @media only screen and (max-width:600px){
     .sec1{
-        margin-left: 30px;
+        margin-left: 10px;
     }
     .welcome_img img{
         margin-top: 100px;
-        width: 30px;    }
+        width: 400px;  
+        margin-left: 30px;  
+    }
+}
+@media only screen and (max-width:400px){
+    .welcome_img img{
+        margin-top: 100px;
+        width: 300px;
+        margin-left: 10px;  
+    }
 }
 
 
@@ -122,13 +131,13 @@
 }
 @media only screen and (max-width:600px){
     .images{
-        margin-left: 40px;
+        margin-left: 10px;
     }
 .sec2_div{
-    margin-left: 30px;
+    margin-left: 10px;
 }
 .sec2_left{
-    margin-left: 30px;
+    margin-left: 10px;
 }
 .about button{
     margin-bottom: 50px;
@@ -140,13 +149,14 @@
 
 .menus{
     background-color: #0c0c0c;
-    padding-left: 70px;
 }
 
 .menu{
 width:420px;
 height:700px;
 margin-left: 25px;
+border-radius: 10px;
+
 }
 .the_menu h3{
     text-align: center;
@@ -194,7 +204,7 @@ margin-left: 25px;
 }
 .menu_button button{
     margin-top: 80px;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
     width: 150px;
     height: 55px;
     border-radius: 5px;
@@ -204,21 +214,32 @@ margin-left: 25px;
 }
 @media only screen and (max-width:600px){
     .menu{
-        margin-left: -50px;
-        width:310px;
+        width:440px;
+        margin-left: 10px;
+        border-radius: 20px;
+
+    }
+    .menu_left{
+        padding-top: 0px;
 
     }
     .menu_right{
         margin-left: 0px;
+        padding-top: 50px;
     }
 }
-
+@media only screen and (max-width:400px){
+    .menu{
+        width:300px;
+        margin-left: 5px;
+    }
+}
 
                 /*end of menu*/
 
                 /*start of chefs*/
 .chefs{
-margin-top: 100px;
+margin-top: 50px;
 margin-bottom: 100px;
 }
 .chef{
@@ -258,7 +279,12 @@ margin-bottom: 100px;
 }
 @media only screen and (max-width:600px){
     .awards_img{
-        width: 330px;
+        width: 440px;
+    }
+}
+@media only screen and (max-width:400px){
+    .awards_img{
+        width:300px;
     }
 }
 
@@ -376,7 +402,14 @@ padding-bottom: 100px;
 }
 @media only screen and (max-width:600px){
     .insta_img img{
-        width: 350px;
+        width: 440px;
+        margin-left: 10px;
+    }
+}
+@media only screen and (max-width:400px){
+    .insta_img img{
+        width:300px;
+        margin-left: 0px;
 
     }
 }
@@ -430,13 +463,30 @@ margin-bottom: 50px;
 
 @media only screen and (max-width:600px){
     .form{
-        height: 610px;
+        height: 490px;
         width: 100%;
     }
     .form input{
         margin-bottom: 10px;
+        margin-left: 10px;
     }
 }
+@media only screen and (max-width:457px){
+    .form{
+        height: 570px;
+        width: 100%;
+    }
+}
+@media only screen and (max-width:350px){
+    .form h1{
+        font-size: 50px;
+    }
+    .form{
+        height: 500px;
+        width: 100%;
+    }
+}
+
                         /*end of form */
 
                 /*start of footer */
