@@ -66,7 +66,7 @@
 @media only screen and (max-width:460px){
     .welcome_img img{
         margin-top: 100px;
-        width: 320px;
+        width: 340px;
         margin-left: 10px;  
     }
 }
@@ -255,7 +255,7 @@ border-radius: 10px;
 }
 @media only screen and (max-width:460px){
     .menu{
-        width:300px;
+        width:320px;
         margin-left: 5px;
     }
 }
@@ -319,8 +319,7 @@ margin-bottom: 100px;
 }
 @media only screen and (max-width:460px){
     .awards_img{
-        width:300px;
-    }
+        width:320px;    }
 }
                 /*end of awards*/
 
@@ -419,8 +418,7 @@ body {
     }
     @media only screen and (max-width:460px){
         .swiper {
-            width: 300px;
-            }
+            width:320px;            }
     }
 
                 /*end of insta*/
@@ -465,8 +463,7 @@ padding-bottom: 100px;
 }
 @media only screen and (max-width:460px){
     .insta_img img{
-        width:300px;
-        margin-left: 0px;
+        width:320px;        margin-left: 0px;
     }
 }
 
